@@ -25,6 +25,8 @@ public class Bettercopper {
         modEventBus.addListener(this::commonSetup);
 
         // Register
+        BCCreativeTab.register(modEventBus);
+
         BCItems.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
