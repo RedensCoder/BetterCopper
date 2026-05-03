@@ -1,5 +1,6 @@
 {
   "itemGroup.bc_tab": "Better Copper",
 
-  "item.bettercopper.wire": "Провод"
+  "item.bettercopper.wire": "Провод",
+  "item.bettercopper.coil": "Катушка"
 }

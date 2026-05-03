@@ -17,6 +17,7 @@ public class BCCreativeTab {
                     .title(Component.translatable("itemGroup.bc_tab"))
                     .displayItems(((parametrs, output) -> {
                         output.accept(BCItems.WIRE.get());
+                        output.accept(BCItems.COIL.get());
                     }))
                     .build());
 

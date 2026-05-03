@@ -13,6 +13,8 @@ public class BCItems {
     // Items
     public static final RegistryObject<Item> WIRE = ITEM.register("wire",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COIL = ITEM.register("coil",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus bus) {
         ITEM.register(bus);
