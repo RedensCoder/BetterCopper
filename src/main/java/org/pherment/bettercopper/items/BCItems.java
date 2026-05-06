@@ -15,6 +15,8 @@ public class BCItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> COIL = ITEM.register("coil",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MAGNETIC_COIL = ITEM.register("magnetic_coil",
+            () -> new MagneticCoil(new Item.Properties()));
 
     public static void register(IEventBus bus) {
         ITEM.register(bus);

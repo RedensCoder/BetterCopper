@@ -2,5 +2,11 @@
   "itemGroup.bc_tab": "Better Copper",
 
   "item.bettercopper.wire": "Wire",
-  "item.bettercopper.coil": "Coil"
+  "item.bettercopper.coil": "Coil",
+  "item.bettercopper.magnetic_coil": "Magnetic coil",
+
+  "advancement.bettercopper.copper_ingot.title": "Better Copper",
+  "advancement.bettercopper.copper_ingot.description": "Get your first copper ingot",
+  "advancement.bettercopper.magnetic_coil.title": "Discharge!",
+  "advancement.bettercopper.magnetic_coil.description": "Charge the coil"
 }

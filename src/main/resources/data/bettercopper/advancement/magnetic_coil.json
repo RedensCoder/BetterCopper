@@ -1,0 +1,23 @@
+{
+  "parent": "bettercopper:copper_ingot",
+  "display": {
+    "icon": {
+      "id": "bettercopper:magnetic_coil"
+    },
+    "title": {
+      "translate": "advancement.bettercopper.magnetic_coil.title"
+    },
+    "description": {
+      "translate": "advancement.bettercopper.magnetic_coil.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "transform": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

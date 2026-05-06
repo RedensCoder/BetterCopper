@@ -2,5 +2,11 @@
   "itemGroup.bc_tab": "Better Copper",
 
   "item.bettercopper.wire": "Провод",
-  "item.bettercopper.coil": "Катушка"
+  "item.bettercopper.coil": "Катушка",
+  "item.bettercopper.magnetic_coil": "Магнитная катушка",
+
+  "advancement.bettercopper.copper_ingot.title": "Better Copper",
+  "advancement.bettercopper.copper_ingot.description": "Получите свой первый медный слиток",
+  "advancement.bettercopper.magnetic_coil.title": "Разряд!",
+  "advancement.bettercopper.magnetic_coil.description": "Зарядите катушку"
 }

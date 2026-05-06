@@ -1,4 +1,4 @@
-package org.pherment.bettercopper;
+package org.pherment.bettercopper.Data;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.HolderLookup;
