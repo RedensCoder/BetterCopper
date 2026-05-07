@@ -11,8 +11,10 @@ public class MagneticItems {
     private static final Map<Item, Double> MAGNETIC_POWER = new HashMap<>();
 
     static {
-        MAGNETIC_POWER.put(BCItems.WIRE.get(), 0.14);
+        MAGNETIC_POWER.put(BCItems.WIRE.get(), 0.15);
         MAGNETIC_POWER.put(BCItems.COIL.get(), 0.11);
+        MAGNETIC_POWER.put(BCItems.COPPER_LOCK.get(), 0.11);
+        MAGNETIC_POWER.put(BCItems.COPPER_KEY.get(), 0.13);
         MAGNETIC_POWER.put(BCItems.MAGNETIC_COIL.get(), 0.20);
 
         MAGNETIC_POWER.put(Items.IRON_NUGGET, 0.13);

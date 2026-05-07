@@ -4,9 +4,13 @@
   "item.bettercopper.wire": "Wire",
   "item.bettercopper.coil": "Coil",
   "item.bettercopper.magnetic_coil": "Magnetic coil",
+  "item.bettercopper.copper_lock": "Copper lock",
+  "item.bettercopper.copper_key": "Copper key",
 
   "advancement.bettercopper.copper_ingot.title": "Better Copper",
   "advancement.bettercopper.copper_ingot.description": "Get your first copper ingot",
   "advancement.bettercopper.magnetic_coil.title": "Discharge!",
-  "advancement.bettercopper.magnetic_coil.description": "Charge the coil"
+  "advancement.bettercopper.magnetic_coil.description": "Charge the coil",
+  "advancement.bettercopper.copper_lock.title": "Blocked",
+  "advancement.bettercopper.copper_lock.description": "Lock the vault"
 }

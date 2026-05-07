@@ -4,9 +4,13 @@
   "item.bettercopper.wire": "Провод",
   "item.bettercopper.coil": "Катушка",
   "item.bettercopper.magnetic_coil": "Магнитная катушка",
+  "item.bettercopper.copper_lock": "Медный замок",
+  "item.bettercopper.copper_key": "Медный ключ",
 
   "advancement.bettercopper.copper_ingot.title": "Better Copper",
   "advancement.bettercopper.copper_ingot.description": "Получите свой первый медный слиток",
   "advancement.bettercopper.magnetic_coil.title": "Разряд!",
-  "advancement.bettercopper.magnetic_coil.description": "Зарядите катушку"
+  "advancement.bettercopper.magnetic_coil.description": "Зарядите катушку",
+  "advancement.bettercopper.copper_lock.title": "Заблокировано",
+  "advancement.bettercopper.copper_lock.description": "Закройте хранилище на замок"
 }

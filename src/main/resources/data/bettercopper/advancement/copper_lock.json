@@ -1,0 +1,23 @@
+{
+  "parent": "bettercopper:copper_ingot",
+  "display": {
+    "icon": {
+      "id": "bettercopper:copper_lock"
+    },
+    "title": {
+      "translate": "advancement.bettercopper.copper_lock.title"
+    },
+    "description": {
+      "translate": "advancement.bettercopper.copper_lock.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "transform": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

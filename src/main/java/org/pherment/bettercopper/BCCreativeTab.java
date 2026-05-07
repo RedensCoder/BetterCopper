@@ -19,6 +19,8 @@ public class BCCreativeTab {
                         output.accept(BCItems.WIRE.get());
                         output.accept(BCItems.COIL.get());
                         output.accept(BCItems.MAGNETIC_COIL.get());
+                        output.accept(BCItems.COPPER_LOCK.get());
+                        output.accept(BCItems.COPPER_KEY.get());
                     }))
                     .build());
 
